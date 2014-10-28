@@ -27,7 +27,7 @@ public class ZeroSeq {
 				value = sum;
 			}
 		}
-		Queue q = new Queue();
+
 		
 		Iterator it = m.keySet().iterator();
 		while(it.hasNext()){
